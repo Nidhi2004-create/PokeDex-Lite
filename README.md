@@ -80,3 +80,4 @@ npm run preview
 - [x] Responsive design
 - [x] Clean and readable code architecture
 - [x] No AI plagiarism detected (Built from scratch)
+
